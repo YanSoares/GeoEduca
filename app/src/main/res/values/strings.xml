@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GeoEduca</string>
+    <string name="btn_conteudo">Conteúdo</string>
+    <string name="btn_quiz">Quiz</string>
+    <string name="btn_simulado">Simulado</string>
+    <string name="btn_ano1Conteudo">1º Ano</string>
+    <string name="btn_ano2Conteudo">2º Ano</string>
+    <string name="btn_ano3Conteudo">3º Ano</string>
+    <string name="btn_ano1Simulado">PSC 1º Ano</string>
+    <string name="btn_ano2Simulado">PSC 2º Ano</string>
+    <string name="btn_ano3Simulado">PSC 3º Ano</string>
+    <string name="btn_enemSimulado">ENEM</string>
+</resources>
